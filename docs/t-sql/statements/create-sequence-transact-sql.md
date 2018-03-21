@@ -215,7 +215,7 @@ GO
  The following example creates a sequence that increases by 5 every time it is used.  
   
 ```  
-CREATE SEQUENCE Test.CountBy1  
+CREATE SEQUENCE Test.CountBy5
     START WITH 5  
     INCREMENT BY 5 ;  
 GO  
